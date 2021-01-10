@@ -1,1 +1,2 @@
-https://www.figma.com/proto/UfHEYHlZ0rQqubPU1k66Up/%5B-SPC-%5D-%EB%8B%A8%EA%B0%80-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C---Story-Board
+URL : https://www.figma.com/proto/UfHEYHlZ0rQqubPU1k66Up/%5B-SPC-%5D-%EB%8B%A8%EA%B0%80-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C
+내용 : SPC 단가모니터링을 위하여 개발하였습니다. 해당 프로그램으로 회사의 품목단가변화와 운영상태를 모니터링 할 수 있습니다.
